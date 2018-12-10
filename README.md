@@ -1,6 +1,6 @@
 # marvel-api
 
-> Testes da API da Marvel
+> Testes da API da Marvel. Somente para estudos.
 
 ## Build Setup
 
